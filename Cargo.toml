@@ -1,0 +1,14 @@
+[package]
+name = "engrish_crawl"
+version = "0.1.0"
+authors = ["Jayce Miller <jicee13@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+url-crawler = "0.3.0"
+scraper = "0.9.0"
+reqwest = "0.9.5"
+http = "0.1.14"
+select = "0.4.2"
+flate2 = "1.0"
+chrono = "0.4.6"
